@@ -29,7 +29,13 @@ This project focuses on cleaning and preparing the Global Air Pollution Dataset 
 
 ## Validation
 
-Duplicate records, data types, remaining missing values, and inconsistent entries must be checked before the cleaned dataset is considered final.
+The cleaned dataset was validated in Microsoft Excel by checking for:
+
+* Duplicate records
+* Appropriate data types
+* Remaining missing values
+* Inconsistent entries
+
 
 ## Deliverables
 
